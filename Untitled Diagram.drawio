@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="Page-1" id="q8MJre1eFBd4P3hf_yTO">
-    <mxGraphModel dx="1975" dy="835" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2867" dy="1336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IKbNWxXJ5woNdYA1CIfF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IKbNWxXJ5woNdYA1CIfF-1" value="400 watt solar panel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-980" y="-15" width="217" height="396" as="geometry" />
         </mxCell>
-        <mxCell id="IKbNWxXJ5woNdYA1CIfF-66" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="IKbNWxXJ5woNdYA1CIfF-66" value="Solar Charge Controller" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="-685" y="215" width="259" height="138" as="geometry" />
         </mxCell>
         <mxCell id="IKbNWxXJ5woNdYA1CIfF-67" value="-&amp;nbsp; &amp;nbsp; &amp;nbsp;+" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
@@ -136,30 +136,30 @@
             <mxPoint x="-653" y="416" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IKbNWxXJ5woNdYA1CIfF-104" value="- out&amp;nbsp; &amp;nbsp; &amp;nbsp;+out" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-600.75" y="324" width="90.5" height="16" as="geometry" />
+        <mxCell id="IKbNWxXJ5woNdYA1CIfF-104" value="- Bout&amp;nbsp; &amp;nbsp; &amp;nbsp;+Bout" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-605" y="324" width="124.75" height="16" as="geometry" />
         </mxCell>
         <mxCell id="IKbNWxXJ5woNdYA1CIfF-105" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-538" y="353" as="sourcePoint" />
-            <mxPoint x="-538" y="365" as="targetPoint" />
+            <mxPoint x="-538" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IKbNWxXJ5woNdYA1CIfF-106" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-576" y="353" as="sourcePoint" />
-            <mxPoint x="-576" y="387" as="targetPoint" />
+            <mxPoint x="-576" y="394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IKbNWxXJ5woNdYA1CIfF-107" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-539" y="370" as="sourcePoint" />
+            <mxPoint x="-538" y="369" as="sourcePoint" />
             <mxPoint x="-352" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IKbNWxXJ5woNdYA1CIfF-108" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-442" y="395" as="sourcePoint" />
+            <mxPoint x="-576" y="394" as="sourcePoint" />
             <mxPoint x="-352" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
