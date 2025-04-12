@@ -1,19 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="Page-1" id="0UagPBm0AB_Oe1wprv94">
-    <mxGraphModel dx="463" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="953" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-1" value="120 ah 3.6v" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-2" value="120 ah 3.6v" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="340" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fYMTjXbIgP_A3_QSXZH9-3" target="fYMTjXbIgP_A3_QSXZH9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-3" value="120 ah 3.6v" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-4" value="120 ah 3.6v" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="620" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fYMTjXbIgP_A3_QSXZH9-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -64,16 +67,16 @@
             <mxPoint x="240" y="699.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-14" value="Voltage sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-15" value="Voltage sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="370" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-16" value="Voltage sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fYMTjXbIgP_A3_QSXZH9-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-17" value="Voltage sensor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fYMTjXbIgP_A3_QSXZH9-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -345,6 +348,9 @@
             <mxPoint x="580" y="130" as="sourcePoint" />
             <mxPoint x="590" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fYMTjXbIgP_A3_QSXZH9-81" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
