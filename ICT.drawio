@@ -516,7 +516,7 @@
             <mxPoint x="1410" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMQKR_mXS48PNvMq0RPa-48" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Specialized Services&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMQKR_mXS48PNvMq0RPa-48" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Specialized Services&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1361.25" y="870" width="98.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IMQKR_mXS48PNvMq0RPa-49" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -525,13 +525,31 @@
             <mxPoint x="1410" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMQKR_mXS48PNvMq0RPa-51" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Studemt&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IMQKR_mXS48PNvMq0RPa-51" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Student Scholarships&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="870" width="98.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IMQKR_mXS48PNvMq0RPa-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1268.75" y="840" as="sourcePoint" />
             <mxPoint x="1268.75" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMQKR_mXS48PNvMq0RPa-55" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Stud. Cultural Affairs&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="870" width="98.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IMQKR_mXS48PNvMq0RPa-56" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1158.75" y="840" as="sourcePoint" />
+            <mxPoint x="1158.75" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMQKR_mXS48PNvMq0RPa-57" value="&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Garamond&quot;&gt;Stud. Cultural Affairs&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="996.25" y="870" width="98.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IMQKR_mXS48PNvMq0RPa-58" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1045" y="840" as="sourcePoint" />
+            <mxPoint x="1045" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
